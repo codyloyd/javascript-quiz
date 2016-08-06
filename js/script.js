@@ -33,7 +33,7 @@ function renderQuestions(questions) {
 }
 
 function renderScore() {
-  $(".quizcontainer").append('<div class="score">Your score is <br>'+score+' out of '+questions.length+'</div>')
+  $(".quizcontainer").append('<div class="score">Your score: <br>'+score+' out of '+questions.length+'</div>')
 }
 
 function renderSingleQuestion(question, index) {
