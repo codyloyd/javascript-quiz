@@ -1,0 +1,38 @@
+body {
+  font-family: "Arvo";
+  background-color: #fafafa;
+  color: #555; }
+
+.quizcontainer {
+  max-width: 800px;
+  margin: auto; }
+
+h1 {
+  max-width: 800px;
+  margin: 25px auto; }
+
+.questioncontainer {
+  background-color: #f1f1f1;
+  margin: 25px 0;
+  padding: 15px;
+  -webkit-box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.112);
+  -moz-box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.112);
+  box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.112); }
+
+.question {
+  border-bottom: 1px solid #555;
+  padding-bottom: 5px;
+  margin-bottom: 10px; }
+
+.choice {
+  margin: 0 0 10px 25px; }
+
+button {
+  width: 200px;
+  margin: 10px 0 10px 25px; }
+
+.score {
+  text-align: center;
+  font-size: 48px; }
+
+/*# sourceMappingURL=style.css.map */
